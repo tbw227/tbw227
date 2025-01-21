@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tbw227
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Front end development
+- 🌱 I’m currently working on buliding out my portfolio 
 - 💞️ I’m looking to collaborate on ... anything 
 - 📫 How to reach me ... tbw227.tw@gmail.com
 
